@@ -7,11 +7,11 @@ public class Aula {
 		System.out.println("Ola turma, sejam bem-vindos!");
 		
 		// Variavel
-		String meuNome = "Gabriel";
-		int anoFabricacao = 2022;
-		boolean verdadeira = false;
+		//String meuNome = "Gabriel";
+		//int anoFabricacao = 2022;
+		//boolean verdadeira = false;
 	
-		anoFabricacao = 2018;
+		//anoFabricacao = 2018;
 		
 		// Método
 		String primeiroNome = "Gabriel";
