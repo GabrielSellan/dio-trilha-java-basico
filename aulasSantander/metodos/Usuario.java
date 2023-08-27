@@ -1,4 +1,4 @@
-package edu.santander.metodos;
+package aulasSantander.metodos;
 
 public class Usuario {
     public static void main(String[] args) {

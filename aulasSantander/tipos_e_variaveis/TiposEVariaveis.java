@@ -1,4 +1,4 @@
-package edu.santander.tipos_e_variaveis;
+package aulasSantander.tipos_e_variaveis;
 
 public class TiposEVariaveis {
     public static void main(String[] args) {

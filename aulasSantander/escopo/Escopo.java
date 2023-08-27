@@ -1,4 +1,4 @@
-package edu.santander.escopo;
+package aulasSantander.escopo;
 
 public class Escopo {
     public static void main(String[] args) {

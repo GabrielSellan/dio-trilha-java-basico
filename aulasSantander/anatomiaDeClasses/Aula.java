@@ -1,4 +1,4 @@
-package edu.santander.anatomiaDeClasses;
+package aulasSantander.anatomiaDeClasses;
 
 public class Aula {
 	
