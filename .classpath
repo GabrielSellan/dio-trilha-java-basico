@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="aulasSantander/prox-aula/|fundamentosPOO/exemplo-pacotes/src/|controle-candidatos/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="aulasSantander/prox-aula"/>
+	<classpathentry kind="src" path="controle-candidatos/src"/>
+	<classpathentry kind="src" path="fundamentosPOO/exemplo-pacotes/src"/>
+	<classpathentry kind="output" path="fundamentosPOO/exemplo-pacotes/bin"/>
+</classpath>
